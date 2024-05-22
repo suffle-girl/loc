@@ -1,0 +1,13 @@
+{
+    "logo": "MoodAdviser",
+    "navigation": {
+      "home": "Domů",
+      "aboutUs": "O nás",
+      "aboutProject": "O projektu"
+    },
+    "title": "Vítejte do reactu s použitím react-i18next",
+    "description": {
+      "part1": "Pro zahájení upravte <1>src/App.js</1> a uložte soubor.",
+      "part2": "Přepínejte jazyky z angličtiny do češtiny pomocí tlačítek níže."
+    }
+  }
